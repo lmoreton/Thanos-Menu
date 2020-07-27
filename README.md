@@ -13,7 +13,7 @@ Thanos Menu is an iOS app for Thanos users to enjoy a menu of Marvel characters!
 ## How to run
 1. Clone this repo
 2. Open Build Settings -> User-Defined
-3. Fill in your own Marve API Keys under: API_PRIVATE_KEY & API_PUBLIC_KEY
+3. Fill in your own Marvel API Keys under: API_PRIVATE_KEY & API_PUBLIC_KEY
 4. Run it!!  🚀
 
 ## Architecture
