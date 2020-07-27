@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  thanos menu
+
+  Created by Lucas Moreton on 22/07/20.
+  Copyright © 2020 Lucas Moreton. All rights reserved.
+*/
+
+//MARK: - Error Messages
+
+"errorAlertDefaultTitle" = "Erro";
+"errorAlertDefaultAction" = "Ok";
+"notPossibleConnect" = "Falha durante a conexão com o serviço";
+"requestTimeOut" = "Por favor tente novamente";
+"invalidInput" = "Dado(s) inválidos";
+"somethingWrong" = "Oops! Algo deu errado…";
+
+//MARK: - Commom Messages
+
+"tryAgain" = "Tentar novamente";
+"cancel" = "Cancelar";
+"yes" = "Sim";
+"no" = "Não";
